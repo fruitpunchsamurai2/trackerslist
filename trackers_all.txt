@@ -332,3 +332,10 @@ http://tracker.bt4g.com:2095/announce
 
 http://t.acg.rip:6699/announce
 
+http://reactor.flro.org/5cc7e716a12883ff907ad096ccd7652a/announce
+
+http://reactor.filelist.io/5cc7e716a12883ff907ad096ccd7652a/announce
+
+https://reactor.torrentdb.net/announce/30396c686a63658759fd5e8305145a17
+
+https://tracker.exoticaz.to/f2f6af47fd14eb6c6882eaf1a3e32d73/announce
